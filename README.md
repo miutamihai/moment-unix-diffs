@@ -19,8 +19,11 @@ One day diff is  86400000
 Six hours diff is  21600000
 One hour diff is  3600000
 Thirty minutes diff is  1800000
+Fifteen minutes diff is  900000
 Ten minutes diff is  600000
+Five minutes diff is  300000
 One minute diff is  60000
+Two seconds diff is  2000
 Done in 0.05s.
 ```
 
